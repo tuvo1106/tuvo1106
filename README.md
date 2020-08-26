@@ -7,7 +7,7 @@
 ```javascript
 const tu = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Go", "C"],
+    code: ["JavaScript", "Python", "Java", "Go", "C"],
     askMeAbout: ["photography", "anime", "dnd"],
     technologies: {
         frontEnd: {
@@ -15,8 +15,9 @@ const tu = {
             css: ["Bootstrap"]
         },
         backEnd: {
-            js: ["NodeJS", "Express", "Spring"],
-            python: ["Flask", "Django"]
+            js: ["NodeJS", "Express"],
+            python: ["Flask", "Django"],
+	    java: ["Spring"]
         },
         devOps: ["AWS", "Docker"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
