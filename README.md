@@ -27,6 +27,10 @@ const tu = {
 ```
 
 ### <img src="https://media.giphy.com/media/4ZcPjuDl8waItVVEMU/giphy.gif" width="50"> Let's connect!
+<p align="left">
+	<a href="https://twitter.com/tuvo1106"><img src="https://img.shields.io/twitter/follow/tuvo1106?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/tuvo"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 ### Personal Projects
 
