@@ -22,7 +22,7 @@ const tu = {
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
     },
     currentProject: "AlgoAcademy, a web app to review data structures and algorithms",
-    quoteOfTheDay: "The wheel weaves as the wheel wills..."
+    currentBook: "The Great Hunt"
 };
 ```
 
