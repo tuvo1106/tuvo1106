@@ -1,11 +1,32 @@
-## ✨ Welcome! ✨
+# <img src="https://media.giphy.com/media/UPcPzUKUkDOrC/giphy.gif" width="60"> Welcome, I'm Tu! <img src="https://media.giphy.com/media/UPcPzUKUkDOrC/giphy.gif" width="60">
 
+<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
+
+### <img src="https://media.giphy.com/media/4ZcPjuDl8waItVVEMU/giphy.gif" width="50"> A little more about me... 
+
+```javascript
+const tu = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "Go", "C"],
+    askMeAbout: ["photography", "anime", "dnd"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Bootstrap"]
+        },
+        backEnd: {
+            js: ["NodeJS", "Express", "Spring"],
+            python: ["Flask", "Django"]
+        },
+        devOps: ["AWS", "Docker"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    },
+    currentProject: "AlgoAcademy, a web app to review data structures and algorithms",
+    quoteOfTheDay: "The wheel weaves as the wheel wills..."
+};
 ```
-Roses are red
-And so are you
-Violets are blue
-Asynchronous operations are great
-```
+
+### <img src="https://media.giphy.com/media/4ZcPjuDl8waItVVEMU/giphy.gif" width="50"> Let's connect!
 
 ### Personal Projects
 
