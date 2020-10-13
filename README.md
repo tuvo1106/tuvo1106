@@ -15,23 +15,18 @@ const tu = {
             css: ["Bootstrap"]
         },
         backEnd: {
-            js: ["NodeJS", "Express"],
+            js: ["NodeJS", "Express", "Typescript"],
             python: ["Flask", "Django"],
-	    java: ["Spring"]
+	    java: ["Spring Boot"]
         },
-        devOps: ["AWS", "Docker"],
+        devOps: ["AWS", "Docker", "Kubernetes"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
     },
     currentProject: "AlgoAcademy, a web app to review data structures and algorithms",
-    currentBook: "The Great Hunt"
+    currentBook: "Dune",
+    currentGame: "Baldur's Gate 3"
 };
 ```
-
-### <img src="https://media.giphy.com/media/4ZcPjuDl8waItVVEMU/giphy.gif" width="50"> Let's connect!
-<p align="left">
-	<a href="https://twitter.com/tuvo1106"><img src="https://img.shields.io/twitter/follow/tuvo1106?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/tuvo"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
 
 ### Personal Projects
 
@@ -88,19 +83,3 @@ const tu = {
 | [Python Design Patterns](https://github.com/tuvo1106/python_design_patterns)  |       Gang of Four Design Patterns in Python        |
 
 </details>
-
-
-<!--
-**tuvo1106/tuvo1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
