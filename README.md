@@ -30,9 +30,6 @@ const tu = {
 
 ### Personal Projects
 
-<details>
-<summary>View Contents</summary>
-
 |                                Name                                 |                          Details                          |
 | :-----------------------------------------------------------------: | :-------------------------------------------------------: |
 |     [Algo Academy](https://github.com/akatsuki-co/algoacademy)      |  React app for reviewing data structures and algorithms   |
@@ -44,34 +41,8 @@ const tu = {
 | [TV Real Estate](https://github.com/tuvo1106/django_tv_real_estate) |         Django app for listing real estate homes          |
 |    [Monster Manual](https://github.com/tuvo1106/monster_manual)     |               RESTful API for DnD monsters                |
 
-</details>
-
-### School Projects
-
-<details>
-<summary>View Contents</summary>
-
-|                                              Name                                               |                    Details                     |
-| :---------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|       [Holberton Web Back End](https://github.com/tuvo1106/holbertonschool-web_back_end)        |    Python, Javascript, MySQL, Redis, Mongo     |
-| [Holberton Higher-Level](https://github.com/tuvo1106/holbertonschool-higher_level_programming)  |           Python, MySQL, Javascript            |
-|   [Holberton Lower-Level](https://github.com/tuvo1106/holbertonschool-low_level_programming)    |       C, Data Structures and Algorithms        |
-| [Holberton System Engineering](https://github.com/tuvo1106/holberton-system_engineering-devops) |       Linux, Bash, Puppet, Nginx, Apache       |
-|      [Holberton Web Front End](https://github.com/tuvo1106/holbertonschool-web_front_end)       | HTML, CSS, Javascript, Sass, Bootstrap, Jquery |
-|          [Holberton Interview](https://github.com/tuvo1106/holbertonschool-interview)           |    Interview prep problems in C and Python     |
-|   [Holberton Smiling School](https://github.com/tuvo1106/holberton-smiling-school-javascript)   |          HTML, CSS, Bootstrap, JQuery          |
-|                   [Simple Shell](https://github.com/tuvo1106/c_simple_shell)                    |         Unix command line interpreter          |
-|                         [Hbnb](https://github.com/tuvo1106/flask_hbnb)                          |         Airbnb clone built with Flask          |
-|                [Checker Buddy](https://github.com/tuvo1106/checker_api_hack_day)                |                Hack day project                |
-|                  [Markdown to HTML](https://github.com/tuvo1106/Markdown2HTML)                  |      Python scripts to convert md to html      |
-|                         [Printf](https://github.com/tuvo1106/c_printf)                          |      Custom implementation of C's printf       |
-
-</details>
 
 ### Continuous Learning
-
-<details>
-<summary>View Contents</summary>
 
 |                                     Name                                      |                       Details                       |
 | :---------------------------------------------------------------------------: | :-------------------------------------------------: |
@@ -82,4 +53,3 @@ const tu = {
 |        [C++ Primer Plus](https://github.com/tuvo1106/cpp_primer_plus)         |                    Learning C++                     |
 | [Python Design Patterns](https://github.com/tuvo1106/python_design_patterns)  |       Gang of Four Design Patterns in Python        |
 
-</details>
