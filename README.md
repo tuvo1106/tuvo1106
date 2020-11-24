@@ -1,7 +1,5 @@
 # <img src="https://media.giphy.com/media/UPcPzUKUkDOrC/giphy.gif" width="60"> Welcome, I'm Tu! <img src="https://media.giphy.com/media/UPcPzUKUkDOrC/giphy.gif" width="60">
 
-<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
-
 ```javascript
 const tu = {
     pronouns: "He" | "Him",
