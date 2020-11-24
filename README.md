@@ -2,17 +2,15 @@
 
 <img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
 
-### <img src="https://media.giphy.com/media/4ZcPjuDl8waItVVEMU/giphy.gif" width="50"> A little more about me... 
-
 ```javascript
 const tu = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Python", "Java", "Go", "C"],
-    askMeAbout: ["photography", "anime", "dnd"],
+    askMeAbout: ["photography", "dnd"],
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["Bootstrap"]
+            css: ["Bootstrap", "Material UI"]
         },
         backEnd: {
             js: ["NodeJS", "Express", "Typescript"],
@@ -22,9 +20,6 @@ const tu = {
         devOps: ["AWS", "Docker", "Kubernetes"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
     },
-    currentProject: "AlgoAcademy, a web app to review data structures and algorithms",
-    currentBook: "Dune",
-    currentGame: "Baldur's Gate 3"
 };
 ```
 
@@ -38,8 +33,6 @@ const tu = {
 |        [Earthbound](https://github.com/tuvo1106/earthbound)         |     Express app for booking photography hiking tours      |
 |        [Mastermind](https://github.com/tuvo1106/mastermind)         |              Mastermind game built in Python              |
 | [Personal website](https://github.com/tuvo1106/tuvo1106.github.io)  | My personal website built with Bootstrap and Github Pages |
-| [TV Real Estate](https://github.com/tuvo1106/django_tv_real_estate) |         Django app for listing real estate homes          |
-|    [Monster Manual](https://github.com/tuvo1106/monster_manual)     |               RESTful API for DnD monsters                |
 
 
 ### Continuous Learning
@@ -50,6 +43,5 @@ const tu = {
 |             [AWS Primer](https://github.com/tuvo1106/aws-primer)              | Notes and learning resources for AWS certifications |
 | [Object-Oriented Programming Design](https://github.com/tuvo1106/oop_design)  |               OOP Design case studies               |
 | [Cracking the Coding Interview](https://github.com/tuvo1106/ctci_6th_edition) |        Interview prep problems and solutions        |
-|        [C++ Primer Plus](https://github.com/tuvo1106/cpp_primer_plus)         |                    Learning C++                     |
 | [Python Design Patterns](https://github.com/tuvo1106/python_design_patterns)  |       Gang of Four Design Patterns in Python        |
 
