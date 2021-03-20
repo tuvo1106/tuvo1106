@@ -3,7 +3,7 @@
 ```javascript
 const tu = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Java", "Go", "C"],
+    code: ["JavaScript", "Python", "Java", "Go", "Ruby"],
     askMeAbout: ["photography", "dnd"],
     technologies: {
         frontEnd: {
@@ -13,11 +13,13 @@ const tu = {
         backEnd: {
             js: ["NodeJS", "Express", "Typescript"],
             python: ["Flask", "Django"],
+	    ruby: ["Rails"],
 	    java: ["Spring Boot"]
         },
         devOps: ["AWS", "Docker", "Kubernetes"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
     },
+    tools: ["Tmux", "Vim"]
 };
 ```
 
