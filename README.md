@@ -3,7 +3,7 @@
 ```javascript
 const tu = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Java", "Go", "Ruby"],
+    code: ["JavaScript", "TypeScript", "Java", "Python", "Ruby"],
     askMeAbout: ["photography", "dnd"],
     technologies: {
         frontEnd: {
@@ -19,7 +19,7 @@ const tu = {
         devOps: ["AWS", "Docker", "Kubernetes"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
     },
-    tools: ["Tmux", "Vim"]
+    tools: ["Tmux", "Vim", "GraphQL"]
 };
 ```
 
@@ -29,9 +29,8 @@ const tu = {
 | :-----------------------------------------------------------------: | :-------------------------------------------------------: |
 |     [Algo Academy](https://github.com/akatsuki-co/algoacademy)      |  React app for reviewing data structures and algorithms   |
 |      [Hygge Homes](https://github.com/akatsuki-co/hyggehomes)       |    Django app for searching and booking vacation homes    |
+|        [Mastermind](https://github.com/tuvo1106/mastermind_v2)      |              Mastermind game built in Typescript          |
 | [Banksy Trading Co.](https://github.com/tuvo1106/banksy_trading_co) |  React e-commerce app for men's clothing and accessories  |
-|        [Earthbound](https://github.com/tuvo1106/earthbound)         |     Express app for booking photography hiking tours      |
-|        [Mastermind](https://github.com/tuvo1106/mastermind)         |              Mastermind game built in Python              |
 | [Personal website](https://github.com/tuvo1106/tuvo1106.github.io)  | My personal website built with Bootstrap and Github Pages |
 
 
