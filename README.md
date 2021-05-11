@@ -11,7 +11,7 @@ const tu = {
             css: ["Bootstrap", "Material UI"]
         },
         backEnd: {
-            js: ["NodeJS", "Express", "Typescript"],
+            js: ["NodeJS", "Express"],
             python: ["Flask", "Django"],
 	    ruby: ["Rails"],
 	    java: ["Spring Boot"]
