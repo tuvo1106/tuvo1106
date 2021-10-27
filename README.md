@@ -5,12 +5,10 @@ const tu = {
     askMeAbout: ["photography", "dnd"],
     technologies: {
         frontEnd: {
-            js: ["React"],
-            css: ["Bootstrap", "Material UI"]
+            js: ["React"]
         },
         backEnd: {
             js: ["NodeJS", "Express"],
-            python: ["Flask", "Django"],
 	    ruby: ["Rails"],
 	    java: ["Spring Boot"]
         },
